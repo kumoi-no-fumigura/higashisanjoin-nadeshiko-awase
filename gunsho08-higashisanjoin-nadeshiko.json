@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/higashisanjoin-nadeshiko-awase",
  "yomi": "ひがしさんじょういんなでしこあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（瞿麦合）",
+  "era": "平安中期",
+  "author": "東三条院（藤原詮子）",
+  "desc": "皇太后宮であった藤原詮子のもとで、七月七日に催された瞿麦合。左右の方人の装束、州浜の飾りや歌を結び付けた趣向を仮名で詳しく記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
